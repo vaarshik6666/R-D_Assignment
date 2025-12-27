@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+packing_animation.mp4
+packing_animation.gif

@@ -1,0 +1,310 @@
+{
+    "metrics": {
+        "total_items": 20,
+        "packed_items": 20,
+        "efficiency_percent": 16.83,
+        "total_volume": 168250
+    },
+    "placements": [
+        {
+            "id": 4,
+            "pos": [
+                0,
+                0,
+                0
+            ],
+            "dims": [
+                50,
+                50,
+                10
+            ],
+            "color": "pink",
+            "type": "flat_panel"
+        },
+        {
+            "id": 5,
+            "pos": [
+                50,
+                0,
+                0
+            ],
+            "dims": [
+                50,
+                50,
+                10
+            ],
+            "color": "purple",
+            "type": "flat_panel"
+        },
+        {
+            "id": 8,
+            "pos": [
+                0,
+                50,
+                0
+            ],
+            "dims": [
+                30,
+                30,
+                30
+            ],
+            "color": "b",
+            "type": "large_crate"
+        },
+        {
+            "id": 9,
+            "pos": [
+                30,
+                50,
+                0
+            ],
+            "dims": [
+                30,
+                30,
+                30
+            ],
+            "color": "m",
+            "type": "large_crate"
+        },
+        {
+            "id": 20,
+            "pos": [
+                60,
+                50,
+                0
+            ],
+            "dims": [
+                10,
+                25,
+                25
+            ],
+            "color": "r",
+            "type": "flat_box"
+        },
+        {
+            "id": 1,
+            "pos": [
+                70,
+                50,
+                0
+            ],
+            "dims": [
+                20,
+                20,
+                20
+            ],
+            "color": "r",
+            "type": "standard_box"
+        },
+        {
+            "id": 2,
+            "pos": [
+                70,
+                70,
+                0
+            ],
+            "dims": [
+                20,
+                20,
+                20
+            ],
+            "color": "y",
+            "type": "standard_box"
+        },
+        {
+            "id": 3,
+            "pos": [
+                0,
+                80,
+                0
+            ],
+            "dims": [
+                20,
+                20,
+                20
+            ],
+            "color": "c",
+            "type": "standard_box"
+        },
+        {
+            "id": 18,
+            "pos": [
+                90,
+                50,
+                0
+            ],
+            "dims": [
+                10,
+                40,
+                10
+            ],
+            "color": "g",
+            "type": "long_box"
+        },
+        {
+            "id": 19,
+            "pos": [
+                60,
+                75,
+                0
+            ],
+            "dims": [
+                10,
+                10,
+                40
+            ],
+            "color": "pink",
+            "type": "long_box"
+        },
+        {
+            "id": 10,
+            "pos": [
+                20,
+                80,
+                0
+            ],
+            "dims": [
+                15,
+                15,
+                15
+            ],
+            "color": "m",
+            "type": "medium_cube"
+        },
+        {
+            "id": 11,
+            "pos": [
+                35,
+                80,
+                0
+            ],
+            "dims": [
+                15,
+                15,
+                15
+            ],
+            "color": "brown",
+            "type": "medium_cube"
+        },
+        {
+            "id": 12,
+            "pos": [
+                0,
+                0,
+                10
+            ],
+            "dims": [
+                15,
+                15,
+                15
+            ],
+            "color": "orange",
+            "type": "medium_cube"
+        },
+        {
+            "id": 13,
+            "pos": [
+                15,
+                0,
+                10
+            ],
+            "dims": [
+                15,
+                15,
+                15
+            ],
+            "color": "orange",
+            "type": "medium_cube"
+        },
+        {
+            "id": 6,
+            "pos": [
+                50,
+                80,
+                0
+            ],
+            "dims": [
+                10,
+                10,
+                60
+            ],
+            "color": "y",
+            "type": "long_beam"
+        },
+        {
+            "id": 7,
+            "pos": [
+                60,
+                85,
+                0
+            ],
+            "dims": [
+                10,
+                10,
+                60
+            ],
+            "color": "orange",
+            "type": "long_beam"
+        },
+        {
+            "id": 14,
+            "pos": [
+                50,
+                90,
+                0
+            ],
+            "dims": [
+                5,
+                5,
+                5
+            ],
+            "color": "c",
+            "type": "small_filler"
+        },
+        {
+            "id": 15,
+            "pos": [
+                55,
+                90,
+                0
+            ],
+            "dims": [
+                5,
+                5,
+                5
+            ],
+            "color": "brown",
+            "type": "small_filler"
+        },
+        {
+            "id": 16,
+            "pos": [
+                70,
+                90,
+                0
+            ],
+            "dims": [
+                5,
+                5,
+                5
+            ],
+            "color": "purple",
+            "type": "small_filler"
+        },
+        {
+            "id": 17,
+            "pos": [
+                75,
+                90,
+                0
+            ],
+            "dims": [
+                5,
+                5,
+                5
+            ],
+            "color": "g",
+            "type": "small_filler"
+        }
+    ]
+}
